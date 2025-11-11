@@ -1,0 +1,36 @@
+{
+  "name": "checkout-form",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lit": "^3.3.1"
+  },
+  "devDependencies": {
+    "typescript": "~5.9.3",
+    "vite": "npm:rolldown-vite@7.1.14"
+  },
+  "overrides": {
+    "vite": "npm:rolldown-vite@7.1.14"
+  },
+  "description": "checkout-form created",
+  "main": "my-element.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muizzmasood/checkout_form.git"
+  },
+  "keywords": [
+    "checkoutForm"
+  ],
+  "author": "Muizz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muizzmasood/checkout_form/issues"
+  },
+  "homepage": "https://github.com/muizzmasood/checkout_form#readme"
+}
